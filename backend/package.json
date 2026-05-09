@@ -18,8 +18,8 @@
   "description": "",
   "main": "index.js",
 "scripts": {
-  "dev": "nodemon src/server.js",
-  "seed": "node src/seed/seedProperties.js"
+  "start": "node src/server.js",
+  "dev": "nodemon src/server.js"
 },
   "keywords": [],
   "author": "",
